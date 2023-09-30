@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout";
 import Thanks from "./components/Thanks";
 
 export const config = {
-  endpoint: `https://abhiqkart-frontend-n9tn.onrender.com`,
+  endpoint: `https://abhiqkartfrontend.onrender.com/api/v1`,
 };
 
 function App() {
